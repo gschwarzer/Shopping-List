@@ -3,6 +3,8 @@ Clean & Simple Shopping List
 
 No fancy bells and whistles, just a clean and simple Shopping List.
 
+App Store link: https://itunes.apple.com/us/app/clean-simple-shopping-list/id826827076
+
 Features:
 
 - Tap item to cross it off
