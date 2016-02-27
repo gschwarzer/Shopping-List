@@ -3,7 +3,7 @@ Clean & Simple Shopping List
 
 No fancy bells and whistles, just a clean and simple Shopping List.
 
-App Store link: https://itunes.apple.com/us/app/clean-simple-shopping-list/id826827076
+App Store link: https://itunes.apple.com/us/app/clean-simple-shopping-list/id826827076 (currently unavailable in the App Store)
 
 Features:
 
@@ -14,4 +14,4 @@ Features:
 - Items are saved in history for easy re-adding later
 - Delete a store or history item by swiping left on it
 
-Feedback and bug reports welcome: gabe@iam.gs
+Feedback and bug reports welcome: gabe@hire.gs
